@@ -57,33 +57,33 @@ export default function Home(){
                     <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-x-80 gap-y-6">
                         <div className="bg-gradient-to-r from-[#0f172a]  to-[#334155]  rounded-xl w-130 h-30 ">
                             
-                            <h3 className="text-xl font-bold mt-8 mb-2">JavaScript</h3>
-                            <p className="text-gray-300">Modern ES6+ JavaScript for dynamic web applications</p>
+                            <h3 className="text-xl font-bold mt-8 mb-2">Html</h3>
+                            <p className="text-gray-300">The foundational markup language used to structure content on the web.</p>
                         </div>
                         <div className="bg-gradient-to-r from-[#0f172a]  to-[#334155]  rounded-xl w-130 h-30 ">
                             
-                            <h3 className="text-xl font-bold mt-8 mb-2">JavaScript</h3>
-                            <p className="text-gray-300">Modern ES6+ JavaScript for dynamic web applications</p>
+                            <h3 className="text-xl font-bold mt-8 mb-2">Tailwind Css</h3>
+                            <p className="text-gray-300">A utility-first CSS framework for building responsive and modern user interfaces.</p>
                         </div>
                         <div className="bg-gradient-to-r from-[#0f172a]  to-[#334155]  rounded-xl w-130 h-30 ">
                             
-                            <h3 className="text-xl font-bold mt-8 mb-2">JavaScript</h3>
-                            <p className="text-gray-300">Modern ES6+ JavaScript for dynamic web applications</p>
+                            <h3 className="text-xl font-bold mt-8 mb-2">react.js</h3>
+                            <p className="text-gray-300">for building fast and interactive user interfaces using components.</p>
                         </div>
                         <div className="bg-gradient-to-r from-[#0f172a]  to-[#334155]  rounded-xl w-130 h-30 ">
                             
-                            <h3 className="text-xl font-bold mt-8 mb-2">JavaScript</h3>
-                            <p className="text-gray-300">Modern ES6+ JavaScript for dynamic web applications</p>
+                            <h3 className="text-xl font-bold mt-8 mb-2">next.js</h3>
+                            <p className="text-gray-300">A powerful React framework for server-side rendering, routing, and optimized web performance.</p>
                         </div>
                         <div className="bg-gradient-to-r from-[#0f172a]  to-[#334155]  rounded-xl w-130 h-30 ">
                             
-                            <h3 className="text-xl font-bold mt-8 mb-2">JavaScript</h3>
-                            <p className="text-gray-300">Modern ES6+ JavaScript for dynamic web applications</p>
+                            <h3 className="text-xl font-bold mt-8 mb-2">GenAI</h3>
+                            <p className="text-gray-300">The cutting-edge field of AI focused on generating text, images, and other content using deep learning models</p>
                         </div>
                         <div className="bg-gradient-to-r from-[#0f172a]  to-[#334155]  rounded-xl w-130 h-30 ">
                             
-                            <h3 className="text-xl font-bold mt-8 mb-2">JavaScript</h3>
-                            <p className="text-gray-300">Modern ES6+ JavaScript for dynamic web applications</p>
+                            <h3 className="text-xl font-bold mt-8 mb-2">Machine learning</h3>
+                            <p className="text-gray-300">A core branch of AI where systems learn from data to make predictions and decisions without explicit programming.</p>
                         </div>
                         
                     
